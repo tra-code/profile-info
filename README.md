@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding Discord bot
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: Trà#3091
+- 📫 How to reach me: Discord: AmTra#3091
 
 <!---
 tra-code/tra-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
